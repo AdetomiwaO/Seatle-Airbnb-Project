@@ -22,5 +22,11 @@ Reviews:
 - created functions to translate foreign languages to english 
 - applied gensim preprocessing and calculated sentiment scores using Afinn
 - appended listing information to the newly scored dataframe to include location, and housing type. 
+- visualized sentiment trends in Power BI
+
+
+Results suggested majority of sentiment scores from guet reviews were positive. 
+Broadway not surprisingly is a top desired neighbourhood but only rose in popularity around 2013.
+Host comments were a good indicator for depicting the general vibe of the neighborhoods. Most comments revolved around proximity to major landmarks.
 
 
