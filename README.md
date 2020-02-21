@@ -1,7 +1,8 @@
 # udacity Airbnb Project (Seattle Vibes)
 
 The project is based on the Kaggle dataset:https://www.kaggle.com/airbnb/seattle/data
-The resuing blog post can be accessed here: https://medium.com/@adetomiwao/seattle-vibes-ecc152358bb5?source=friends_link&sk=94b6d9f4d47296606682a6210c72e184
+
+The resulting blog post can be accessed here: https://medium.com/@adetomiwao/seattle-vibes-ecc152358bb5?source=friends_link&sk=94b6d9f4d47296606682a6210c72e184
 
 The dataset has 3 main files of which I used 2 (listings.csv & reviews.csv)
 - calendar.csv: contains listings, availability dates, pricing (4 columns)
