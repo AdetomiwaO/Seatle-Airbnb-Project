@@ -24,6 +24,8 @@ Reviews:
 - appended listing information to the newly scored dataframe to include location, and housing type. 
 - visualized sentiment trends in Power BI
 
+Thanks to the Stack community for tips as well:
+https://stackoverflow.com/questions/50910965/how-to-change-seaborn-data-labels-to-show-two-decimal-places
 
 Results suggested majority of sentiment scores from guet reviews were positive. 
 Broadway not surprisingly is a top desired neighbourhood but only rose in popularity around 2013.
